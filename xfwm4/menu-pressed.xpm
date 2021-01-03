@@ -2,9 +2,9 @@
 static char * menu_pressed_xpm[] = {
 "21 21 5 1",
 " 	c None",
-".	c #404040 s active_shadow_2",
-"+	c #909090 s active_color_1",
-"@	c #000000",
+".	c #3C3B37 s active_border_color",
+"+	c #F07746 s active_color_1",
+"@	c #000000 s active_shadow_1",
 "#	c #FFFFFF s active_text_color",
 ".....................",
 ".....................",

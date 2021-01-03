@@ -2,7 +2,7 @@
 static char * left_inactive_xpm[] = {
 "4 4 2 1",
 " 	c None",
-".	c #404040 s inactive_color_1",
+".	c #3C3B37 s inactive_border_color",
 "....",
 "....",
 "....",
